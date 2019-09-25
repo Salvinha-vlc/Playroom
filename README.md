@@ -16,7 +16,7 @@ The idea of this repo is to practice Python applied to different genre-wise data
 
 ## Links
 
-[Rhode Island police department] (https://openpolicing.stanford.edu/)
-[TED talks] (https://www.kaggle.com/rounakbanik/ted-talks)
+- [Rhode Island police department] (https://openpolicing.stanford.edu/)
+- [TED talks] (https://www.kaggle.com/rounakbanik/ted-talks)
 
 
